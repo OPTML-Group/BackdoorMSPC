@@ -1,0 +1,10 @@
+tqdm==4.65.0
+timm==0.9.10
+scipy==1.10.1
+scikit-learn==1.2.2
+opencv-python==4.7.0
+numpy
+matplotlib==3.7.1
+pandas==1.5.3
+torch==1.13.1
+torchvision=0.14.1
